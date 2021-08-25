@@ -1,4 +1,8 @@
 
 index : kernel/git/torvalds/linux.git
 
+32 bit
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/arch/x86/include/asm/unistd_32.h?id=60b341b778cc2929df16c0a504c91621b3c6a4ad
+
+64 bit
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/arch/x86/include/asm/unistd_64.h?id=60b341b778cc2929df16c0a504c91621b3c6a4ad
